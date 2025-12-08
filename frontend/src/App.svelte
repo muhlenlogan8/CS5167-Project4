@@ -1,7 +1,14 @@
 <script>
-	import Header from "./lib/Header.svelte";
-	import Hero from "./lib/Hero.svelte";
+	import Header from "./components/Header.svelte";
+	import Hero from "./components/Hero.svelte";
 </script>
 
+<!-- Sticky Header -->
 <Header />
-<Hero />
+
+<!-- Hero Section -->
+<main class="bg-[#0e0f11] text-white">
+	<section id="hero">
+		<Hero />
+	</section>
+</main>
