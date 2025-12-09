@@ -1,0 +1,1847 @@
+[
+    {
+        "country": "Algeria",
+        "code": "DZA",
+        "year": 2019,
+        "energy_gj": 58.10470664,
+        "life_expectancy": 76.88,
+        "population": 42706000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Angola",
+        "code": "AGO",
+        "year": 2019,
+        "energy_gj": 12.34653398,
+        "life_expectancy": 61.147,
+        "population": 32354000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Benin",
+        "code": "BEN",
+        "year": 2019,
+        "energy_gj": 8.938391309,
+        "life_expectancy": 61.771,
+        "population": 12291000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Bhutan",
+        "code": "BTN",
+        "year": 2019,
+        "energy_gj": 105.6170742,
+        "life_expectancy": 71.777,
+        "population": 768000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Botswana",
+        "code": "BWA",
+        "year": 2019,
+        "energy_gj": 35.97236367,
+        "life_expectancy": 69.592,
+        "population": 2500000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Burkina Faso",
+        "code": "BFA",
+        "year": 2019,
+        "energy_gj": 3.4081073,
+        "life_expectancy": 61.577,
+        "population": 20952000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Burundi",
+        "code": "BDI",
+        "year": 2019,
+        "energy_gj": 1.147495496,
+        "life_expectancy": 61.584,
+        "population": 11875000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Cameroon",
+        "code": "CMR",
+        "year": 2019,
+        "energy_gj": 6.53050415,
+        "life_expectancy": 59.292,
+        "population": 25783000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Cape Verde",
+        "code": "CPV",
+        "year": 2019,
+        "energy_gj": 27.99445605,
+        "life_expectancy": 72.981,
+        "population": 578000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Central African Republic",
+        "code": "CAF",
+        "year": 2019,
+        "energy_gj": 1.182366431,
+        "life_expectancy": 53.283,
+        "population": 5210000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Chad",
+        "code": "TCD",
+        "year": 2019,
+        "energy_gj": 1.662175525,
+        "life_expectancy": 54.239,
+        "population": 16127000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Comoros",
+        "code": "COM",
+        "year": 2019,
+        "energy_gj": 5.641428516,
+        "life_expectancy": 64.321,
+        "population": 791000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Congo",
+        "code": "COG",
+        "year": 2019,
+        "energy_gj": 17.04557461,
+        "life_expectancy": 64.57,
+        "population": 5571000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "code": "CIV",
+        "year": 2019,
+        "energy_gj": 8.678188477,
+        "life_expectancy": 57.783,
+        "population": 26148000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "code": "COD",
+        "year": 2019,
+        "energy_gj": 1.447423242,
+        "life_expectancy": 60.681,
+        "population": 89907000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Djibouti",
+        "code": "DJI",
+        "year": 2019,
+        "energy_gj": 9.353962793,
+        "life_expectancy": 67.112,
+        "population": 1074000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Egypt",
+        "code": "EGY",
+        "year": 2019,
+        "energy_gj": 37.57100273,
+        "life_expectancy": 71.99,
+        "population": 105619000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "code": "GNQ",
+        "year": 2019,
+        "energy_gj": 60.76763438,
+        "life_expectancy": 58.735,
+        "population": 1554000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Eritrea",
+        "code": "ERI",
+        "year": 2019,
+        "energy_gj": 3.402508447,
+        "life_expectancy": 66.321,
+        "population": 3499000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Eswatini",
+        "code": "SWZ",
+        "year": 2019,
+        "energy_gj": 20.44222734,
+        "life_expectancy": 60.194,
+        "population": 1170000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Ethiopia",
+        "code": "ETH",
+        "year": 2019,
+        "energy_gj": 3.397064282,
+        "life_expectancy": 66.597,
+        "population": 114121000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Gabon",
+        "code": "GAB",
+        "year": 2019,
+        "energy_gj": 28.25487598,
+        "life_expectancy": 66.467,
+        "population": 2243000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Gambia",
+        "code": "GMB",
+        "year": 2019,
+        "energy_gj": 3.742012793,
+        "life_expectancy": 62.05,
+        "population": 2509000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Ghana",
+        "code": "GHA",
+        "year": 2019,
+        "energy_gj": 11.85963311,
+        "life_expectancy": 64.074,
+        "population": 31523000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "code": "GNB",
+        "year": 2019,
+        "energy_gj": 2.596541968,
+        "life_expectancy": 58.322,
+        "population": 1971000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Kenya",
+        "code": "KEN",
+        "year": 2019,
+        "energy_gj": 6.657011279,
+        "life_expectancy": 66.699,
+        "population": 50952000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Lesotho",
+        "code": "LSO",
+        "year": 2019,
+        "energy_gj": 8.253631934,
+        "life_expectancy": 54.331,
+        "population": 2226000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Liberia",
+        "code": "LBR",
+        "year": 2019,
+        "energy_gj": 4.001451416,
+        "life_expectancy": 64.104,
+        "population": 4986000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Libya",
+        "code": "LBY",
+        "year": 2019,
+        "energy_gj": 93.11021016,
+        "life_expectancy": 72.913,
+        "population": 6570000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Madagascar",
+        "code": "MDG",
+        "year": 2019,
+        "energy_gj": 2.435543701,
+        "life_expectancy": 67.041,
+        "population": 27534000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Malawi",
+        "code": "MWI",
+        "year": 2019,
+        "energy_gj": 1.908430884,
+        "life_expectancy": 64.263,
+        "population": 18868000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Mali",
+        "code": "MLI",
+        "year": 2019,
+        "energy_gj": 4.64082583,
+        "life_expectancy": 59.306,
+        "population": 20568000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Mauritania",
+        "code": "MRT",
+        "year": 2019,
+        "energy_gj": 14.31483047,
+        "life_expectancy": 64.925,
+        "population": 4384000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Mauritius",
+        "code": "MUS",
+        "year": 2019,
+        "energy_gj": 83.80050469,
+        "life_expectancy": 74.23585366,
+        "population": 1297000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Morocco",
+        "code": "MAR",
+        "year": 2019,
+        "energy_gj": 26.00630332,
+        "life_expectancy": 76.68,
+        "population": 36305000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Mozambique",
+        "code": "MOZ",
+        "year": 2019,
+        "energy_gj": 8.558992969,
+        "life_expectancy": 60.854,
+        "population": 30286000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Namibia",
+        "code": "NAM",
+        "year": 2019,
+        "energy_gj": 31.45585781,
+        "life_expectancy": 63.708,
+        "population": 2447000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Niger",
+        "code": "NER",
+        "year": 2019,
+        "energy_gj": 1.624409583,
+        "life_expectancy": 62.42,
+        "population": 23444000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Nigeria",
+        "code": "NGA",
+        "year": 2019,
+        "energy_gj": 8.932400684,
+        "life_expectancy": 54.687,
+        "population": 203305000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Rwanda",
+        "code": "RWA",
+        "year": 2019,
+        "energy_gj": 1.798366443,
+        "life_expectancy": 69.024,
+        "population": 12836000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "code": "STP",
+        "year": 2019,
+        "energy_gj": 12.28158281,
+        "life_expectancy": 70.385,
+        "population": 215000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Senegal",
+        "code": "SEN",
+        "year": 2019,
+        "energy_gj": 9.732594727,
+        "life_expectancy": 67.941,
+        "population": 16001000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Seychelles",
+        "code": "SYC",
+        "year": 2019,
+        "energy_gj": 171.9642656,
+        "life_expectancy": 74.04634146,
+        "population": 105000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Sierra Leone",
+        "code": "SLE",
+        "year": 2019,
+        "energy_gj": 1.902012231,
+        "life_expectancy": 54.696,
+        "population": 8047000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Somalia",
+        "code": "SOM",
+        "year": 2019,
+        "energy_gj": 0.847824005,
+        "life_expectancy": 57.397,
+        "population": 15982000,
+        "continent": "Africa"
+    },
+    {
+        "country": "South Africa",
+        "code": "ZAF",
+        "year": 2019,
+        "energy_gj": 91.58505469,
+        "life_expectancy": 64.131,
+        "population": 58088000,
+        "continent": "Africa"
+    },
+    {
+        "country": "South Sudan",
+        "code": "SSD",
+        "year": 2019,
+        "energy_gj": 2.536386548,
+        "life_expectancy": 57.846,
+        "population": 10448000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Sudan",
+        "code": "SDN",
+        "year": 2019,
+        "energy_gj": 8.49482666,
+        "life_expectancy": 65.311,
+        "population": 43233000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Tanzania",
+        "code": "TZA",
+        "year": 2019,
+        "energy_gj": 3.519529321,
+        "life_expectancy": 65.456,
+        "population": 59873000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Togo",
+        "code": "TGO",
+        "year": 2019,
+        "energy_gj": 4.339386035,
+        "life_expectancy": 61.042,
+        "population": 8244000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Tunisia",
+        "code": "TUN",
+        "year": 2019,
+        "energy_gj": 37.5663375,
+        "life_expectancy": 76.699,
+        "population": 12050000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Uganda",
+        "code": "UGA",
+        "year": 2019,
+        "energy_gj": 3.104649536,
+        "life_expectancy": 63.368,
+        "population": 42950000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Zambia",
+        "code": "ZMB",
+        "year": 2019,
+        "energy_gj": 12.23324736,
+        "life_expectancy": 63.886,
+        "population": 18381000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Zimbabwe",
+        "code": "ZWE",
+        "year": 2019,
+        "energy_gj": 12.14955791,
+        "life_expectancy": 61.49,
+        "population": 15355000,
+        "continent": "Africa"
+    },
+    {
+        "country": "Afghanistan",
+        "code": "AFG",
+        "year": 2019,
+        "energy_gj": 3.404323389,
+        "life_expectancy": 64.833,
+        "population": 37770000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Azerbaijan",
+        "code": "AZE",
+        "year": 2019,
+        "energy_gj": 64.72717734,
+        "life_expectancy": 73.005,
+        "population": 10233000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Bahrain",
+        "code": "BHR",
+        "year": 2019,
+        "energy_gj": 522.6958125,
+        "life_expectancy": 77.292,
+        "population": 1495000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Bangladesh",
+        "code": "BGD",
+        "year": 2019,
+        "energy_gj": 9.99291709,
+        "life_expectancy": 72.591,
+        "population": 165517000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Brunei",
+        "code": "BRN",
+        "year": 2019,
+        "energy_gj": 437.8941281,
+        "life_expectancy": 75.86,
+        "population": 439000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Cambodia",
+        "code": "KHM",
+        "year": 2019,
+        "energy_gj": 14.37925254,
+        "life_expectancy": 69.823,
+        "population": 16208000,
+        "continent": "Asia"
+    },
+    {
+        "country": "China",
+        "code": "CHN",
+        "year": 2019,
+        "energy_gj": 100.3795523,
+        "life_expectancy": 76.912,
+        "population": 1421865000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Georgia",
+        "code": "GEO",
+        "year": 2019,
+        "energy_gj": 66.77026875,
+        "life_expectancy": 73.767,
+        "population": 3771000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Hong Kong",
+        "code": "HKG",
+        "year": 2019,
+        "energy_gj": 166.8898125,
+        "life_expectancy": 85.07804878,
+        "population": 7497000,
+        "continent": "Asia"
+    },
+    {
+        "country": "India",
+        "code": "IND",
+        "year": 2019,
+        "energy_gj": 24.99109102,
+        "life_expectancy": 69.656,
+        "population": 1383113000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Indonesia",
+        "code": "IDN",
+        "year": 2019,
+        "energy_gj": 32.31774492,
+        "life_expectancy": 71.716,
+        "population": 269583000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Iran",
+        "code": "IRN",
+        "year": 2019,
+        "energy_gj": 141.6507047,
+        "life_expectancy": 76.677,
+        "population": 86565000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Iraq",
+        "code": "IRQ",
+        "year": 2019,
+        "energy_gj": 56.60442773,
+        "life_expectancy": 70.604,
+        "population": 41564000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Israel",
+        "code": "ISR",
+        "year": 2019,
+        "energy_gj": 127.6371281,
+        "life_expectancy": 82.80487805,
+        "population": 8608000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Japan",
+        "code": "JPN",
+        "year": 2019,
+        "energy_gj": 145.8879609,
+        "life_expectancy": 84.35634146,
+        "population": 125792000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Jordan",
+        "code": "JOR",
+        "year": 2019,
+        "energy_gj": 41.3413875,
+        "life_expectancy": 74.526,
+        "population": 10699000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Kazakhstan",
+        "code": "KAZ",
+        "year": 2019,
+        "energy_gj": 163.6502344,
+        "life_expectancy": 73.18,
+        "population": 18755000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Kuwait",
+        "code": "KWT",
+        "year": 2019,
+        "energy_gj": 410.3145281,
+        "life_expectancy": 75.489,
+        "population": 4442000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "code": "KGZ",
+        "year": 2019,
+        "energy_gj": 36.98959922,
+        "life_expectancy": 71.6,
+        "population": 6324000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Laos",
+        "code": "LAO",
+        "year": 2019,
+        "energy_gj": 77.21623828,
+        "life_expectancy": 67.923,
+        "population": 7213000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Lebanon",
+        "code": "LBN",
+        "year": 2019,
+        "energy_gj": 56.2095,
+        "life_expectancy": 78.93,
+        "population": 5782000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Macao",
+        "code": "MAC",
+        "year": 2019,
+        "energy_gj": 85.88884922,
+        "life_expectancy": 84.244,
+        "population": 664000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Malaysia",
+        "code": "MYS",
+        "year": 2019,
+        "energy_gj": 139.8920063,
+        "life_expectancy": 76.156,
+        "population": 32805000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Maldives",
+        "code": "MDV",
+        "year": 2019,
+        "energy_gj": 62.97620625,
+        "life_expectancy": 78.921,
+        "population": 505000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Mongolia",
+        "code": "MNG",
+        "year": 2019,
+        "energy_gj": 87.61670156,
+        "life_expectancy": 69.87,
+        "population": 3233000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Myanmar",
+        "code": "MMR",
+        "year": 2019,
+        "energy_gj": 11.26719844,
+        "life_expectancy": 67.134,
+        "population": 53041000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Nepal",
+        "code": "NPL",
+        "year": 2019,
+        "energy_gj": 5.506789746,
+        "life_expectancy": 70.778,
+        "population": 28833000,
+        "continent": "Asia"
+    },
+    {
+        "country": "North Korea",
+        "code": "PRK",
+        "year": 2019,
+        "energy_gj": 13.3045207,
+        "life_expectancy": 72.274,
+        "population": 25756000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Oman",
+        "code": "OMN",
+        "year": 2019,
+        "energy_gj": 273.9582562,
+        "life_expectancy": 77.861,
+        "population": 4603000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Pakistan",
+        "code": "PAK",
+        "year": 2019,
+        "energy_gj": 16.34943516,
+        "life_expectancy": 67.273,
+        "population": 223294000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Palestine",
+        "code": "PSE",
+        "year": 2019,
+        "energy_gj": 14.36856504,
+        "life_expectancy": 74.053,
+        "population": 4910000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Philippines",
+        "code": "PHL",
+        "year": 2019,
+        "energy_gj": 18.73634063,
+        "life_expectancy": 71.231,
+        "population": 110381000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Qatar",
+        "code": "QAT",
+        "year": 2019,
+        "energy_gj": 743.8339125,
+        "life_expectancy": 80.227,
+        "population": 2808000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Saudi Arabia",
+        "code": "SAU",
+        "year": 2019,
+        "energy_gj": 314.8867687,
+        "life_expectancy": 75.133,
+        "population": 35828000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Singapore",
+        "code": "SGP",
+        "year": 2019,
+        "energy_gj": 608.7419438,
+        "life_expectancy": 83.59512195,
+        "population": 5867000,
+        "continent": "Asia"
+    },
+    {
+        "country": "South Korea",
+        "code": "KOR",
+        "year": 2019,
+        "energy_gj": 244.2389906,
+        "life_expectancy": 83.22682927,
+        "population": 51804000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Sri Lanka",
+        "code": "LKA",
+        "year": 2019,
+        "energy_gj": 18.26132871,
+        "life_expectancy": 76.978,
+        "population": 21650000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Syria",
+        "code": "SYR",
+        "year": 2019,
+        "energy_gj": 26.36888379,
+        "life_expectancy": 72.697,
+        "population": 20099000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Taiwan",
+        "code": "TWN",
+        "year": 2019,
+        "energy_gj": 203.5886766,
+        "life_expectancy": null,
+        "population": 23778000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Tajikistan",
+        "code": "TJK",
+        "year": 2019,
+        "energy_gj": 29.16603281,
+        "life_expectancy": 71.097,
+        "population": 9338000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Thailand",
+        "code": "THA",
+        "year": 2019,
+        "energy_gj": 78.79606172,
+        "life_expectancy": 77.15,
+        "population": 71308000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Timor",
+        "code": "TLS",
+        "year": 2019,
+        "energy_gj": 6.055871924,
+        "life_expectancy": 69.495,
+        "population": 1281000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Turkmenistan",
+        "code": "TKM",
+        "year": 2019,
+        "energy_gj": 239.1796125,
+        "life_expectancy": 68.191,
+        "population": 6159000,
+        "continent": "Asia"
+    },
+    {
+        "country": "United Arab Emirates",
+        "code": "ARE",
+        "year": 2019,
+        "energy_gj": 465.4774125,
+        "life_expectancy": 77.972,
+        "population": 9212000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Uzbekistan",
+        "code": "UZB",
+        "year": 2019,
+        "energy_gj": 58.35709336,
+        "life_expectancy": 71.725,
+        "population": 32977000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Vietnam",
+        "code": "VNM",
+        "year": 2019,
+        "energy_gj": 44.98612734,
+        "life_expectancy": 75.4,
+        "population": 95777000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Yemen",
+        "code": "YEM",
+        "year": 2019,
+        "energy_gj": 5.753209131,
+        "life_expectancy": 66.125,
+        "population": 31547000,
+        "continent": "Asia"
+    },
+    {
+        "country": "Albania",
+        "code": "ALB",
+        "year": 2019,
+        "energy_gj": 40.55852813,
+        "life_expectancy": 78.573,
+        "population": 2874000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Armenia",
+        "code": "ARM",
+        "year": 2019,
+        "energy_gj": 55.93752422,
+        "life_expectancy": 75.087,
+        "population": 2821000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Austria",
+        "code": "AUT",
+        "year": 2019,
+        "energy_gj": 172.1460938,
+        "life_expectancy": 81.89512195,
+        "population": 8880000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Belarus",
+        "code": "BLR",
+        "year": 2019,
+        "energy_gj": 117.6181734,
+        "life_expectancy": 74.22682927,
+        "population": 9674000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Belgium",
+        "code": "BEL",
+        "year": 2019,
+        "energy_gj": 233.7624703,
+        "life_expectancy": 81.99512195,
+        "population": 11511000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "code": "BIH",
+        "year": 2019,
+        "energy_gj": 75.84647344,
+        "life_expectancy": 77.401,
+        "population": 3361000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Bulgaria",
+        "code": "BGR",
+        "year": 2019,
+        "energy_gj": 108.0629508,
+        "life_expectancy": 75.11219512,
+        "population": 7053000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Croatia",
+        "code": "HRV",
+        "year": 2019,
+        "energy_gj": 83.51152734,
+        "life_expectancy": 78.42439024,
+        "population": 4130000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Cyprus",
+        "code": "CYP",
+        "year": 2019,
+        "energy_gj": 97.59647813,
+        "life_expectancy": 80.982,
+        "population": 1229000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Czechia",
+        "code": "CZE",
+        "year": 2019,
+        "energy_gj": 160.9393922,
+        "life_expectancy": 79.22926829,
+        "population": 10537000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Denmark",
+        "code": "DNK",
+        "year": 2019,
+        "energy_gj": 121.9941563,
+        "life_expectancy": 81.45121951,
+        "population": 5796000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Estonia",
+        "code": "EST",
+        "year": 2019,
+        "energy_gj": 169.8869391,
+        "life_expectancy": 78.64634146,
+        "population": 1328000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Faeroe Islands",
+        "code": "FRO",
+        "year": 2019,
+        "energy_gj": 288.6367781,
+        "life_expectancy": 82.79268293,
+        "population": 52000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Finland",
+        "code": "FIN",
+        "year": 2019,
+        "energy_gj": 213.0287344,
+        "life_expectancy": 81.98292683,
+        "population": 5522000,
+        "continent": "Europe"
+    },
+    {
+        "country": "France",
+        "code": "FRA",
+        "year": 2019,
+        "energy_gj": 151.0167656,
+        "life_expectancy": 82.82682927,
+        "population": 64400000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Germany",
+        "code": "DEU",
+        "year": 2019,
+        "energy_gj": 159.2815781,
+        "life_expectancy": 81.29268293,
+        "population": 83149000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Greece",
+        "code": "GRC",
+        "year": 2019,
+        "energy_gj": 106.9154578,
+        "life_expectancy": 81.63902439,
+        "population": 10575000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Greenland",
+        "code": "GRL",
+        "year": 2019,
+        "energy_gj": 223.7620219,
+        "life_expectancy": 72.04756098,
+        "population": 56000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Hungary",
+        "code": "HUN",
+        "year": 2019,
+        "energy_gj": 102.2195742,
+        "life_expectancy": 76.3195122,
+        "population": 9772000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Iceland",
+        "code": "ISL",
+        "year": 2019,
+        "energy_gj": 672.4377,
+        "life_expectancy": 83.16341463,
+        "population": 361000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Ireland",
+        "code": "IRL",
+        "year": 2019,
+        "energy_gj": 137.6647875,
+        "life_expectancy": 82.70243902,
+        "population": 4897000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Italy",
+        "code": "ITA",
+        "year": 2019,
+        "energy_gj": 108.280357,
+        "life_expectancy": 83.49756098,
+        "population": 59728000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Latvia",
+        "code": "LVA",
+        "year": 2019,
+        "energy_gj": 84.59928984,
+        "life_expectancy": 75.38780488,
+        "population": 1917000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Lithuania",
+        "code": "LTU",
+        "year": 2019,
+        "energy_gj": 91.538325,
+        "life_expectancy": 76.28292683,
+        "population": 2850000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Luxembourg",
+        "code": "LUX",
+        "year": 2019,
+        "energy_gj": 276.4726875,
+        "life_expectancy": 82.63902439,
+        "population": 620000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Malta",
+        "code": "MLT",
+        "year": 2019,
+        "energy_gj": 330.0665344,
+        "life_expectancy": 82.85853659,
+        "population": 504000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Moldova",
+        "code": "MDA",
+        "year": 2019,
+        "energy_gj": 37.345275,
+        "life_expectancy": 71.901,
+        "population": 3110000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Montenegro",
+        "code": "MNE",
+        "year": 2019,
+        "energy_gj": 81.54060469,
+        "life_expectancy": 76.68292683,
+        "population": 631000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Netherlands",
+        "code": "NLD",
+        "year": 2019,
+        "energy_gj": 207.5180625,
+        "life_expectancy": 82.11219512,
+        "population": 17364000,
+        "continent": "Europe"
+    },
+    {
+        "country": "North Macedonia",
+        "code": "MKD",
+        "year": 2019,
+        "energy_gj": 53.66073516,
+        "life_expectancy": 76.60243902,
+        "population": 2115000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Norway",
+        "code": "NOR",
+        "year": 2019,
+        "energy_gj": 344.724075,
+        "life_expectancy": 82.95853659,
+        "population": 5349000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Poland",
+        "code": "POL",
+        "year": 2019,
+        "energy_gj": 112.571775,
+        "life_expectancy": 77.90487805,
+        "population": 38494000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Portugal",
+        "code": "PRT",
+        "year": 2019,
+        "energy_gj": 103.1599898,
+        "life_expectancy": 81.67560976,
+        "population": 10290000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Romania",
+        "code": "ROU",
+        "year": 2019,
+        "energy_gj": 72.00941484,
+        "life_expectancy": 75.60731707,
+        "population": 19525000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Russia",
+        "code": "RUS",
+        "year": 2019,
+        "energy_gj": 205.8211969,
+        "life_expectancy": 73.08390244,
+        "population": 145743000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Serbia",
+        "code": "SRB",
+        "year": 2019,
+        "energy_gj": 82.02389766,
+        "life_expectancy": 75.93658537,
+        "population": 7402000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Slovakia",
+        "code": "SVK",
+        "year": 2019,
+        "energy_gj": 121.9451484,
+        "life_expectancy": 77.66585366,
+        "population": 5454000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Slovenia",
+        "code": "SVN",
+        "year": 2019,
+        "energy_gj": 138.7098563,
+        "life_expectancy": 81.52926829,
+        "population": 2113000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Spain",
+        "code": "ESP",
+        "year": 2019,
+        "energy_gj": 122.579775,
+        "life_expectancy": 83.83170732,
+        "population": 47132000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Sweden",
+        "code": "SWE",
+        "year": 2019,
+        "energy_gj": 232.9913672,
+        "life_expectancy": 83.1097561,
+        "population": 10268000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Switzerland",
+        "code": "CHE",
+        "year": 2019,
+        "energy_gj": 140.7045094,
+        "life_expectancy": 83.90487805,
+        "population": 8576000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Turkey",
+        "code": "TUR",
+        "year": 2019,
+        "energy_gj": 79.15240547,
+        "life_expectancy": 77.691,
+        "population": 83482000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Ukraine",
+        "code": "UKR",
+        "year": 2019,
+        "energy_gj": 78.36558047,
+        "life_expectancy": 71.82731707,
+        "population": 44212000,
+        "continent": "Europe"
+    },
+    {
+        "country": "United Kingdom",
+        "code": "GBR",
+        "year": 2019,
+        "energy_gj": 116.5003805,
+        "life_expectancy": 81.20487805,
+        "population": 66779000,
+        "continent": "Europe"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "code": "ATG",
+        "year": 2019,
+        "energy_gj": 112.9855078,
+        "life_expectancy": 77.016,
+        "population": 93000,
+        "continent": "North America"
+    },
+    {
+        "country": "Aruba",
+        "code": "ABW",
+        "year": 2019,
+        "energy_gj": 184.2429094,
+        "life_expectancy": 76.293,
+        "population": 107000,
+        "continent": "North America"
+    },
+    {
+        "country": "Bahamas",
+        "code": "BHS",
+        "year": 2019,
+        "energy_gj": 148.21335,
+        "life_expectancy": 73.918,
+        "population": 405000,
+        "continent": "North America"
+    },
+    {
+        "country": "Barbados",
+        "code": "BRB",
+        "year": 2019,
+        "energy_gj": 88.33245469,
+        "life_expectancy": 79.19,
+        "population": 281000,
+        "continent": "North America"
+    },
+    {
+        "country": "Belize",
+        "code": "BLZ",
+        "year": 2019,
+        "energy_gj": 33.28864102,
+        "life_expectancy": 74.623,
+        "population": 390000,
+        "continent": "North America"
+    },
+    {
+        "country": "Bermuda",
+        "code": "BMU",
+        "year": 2019,
+        "energy_gj": 186.1657453,
+        "life_expectancy": 81.86658537,
+        "population": 64000,
+        "continent": "North America"
+    },
+    {
+        "country": "British Virgin Islands",
+        "code": "VGB",
+        "year": 2019,
+        "energy_gj": 84.54818672,
+        "life_expectancy": null,
+        "population": 31000,
+        "continent": "North America"
+    },
+    {
+        "country": "Canada",
+        "code": "CAN",
+        "year": 2019,
+        "energy_gj": 391.071825,
+        "life_expectancy": 82.04878049,
+        "population": 37523000,
+        "continent": "North America"
+    },
+    {
+        "country": "Cayman Islands",
+        "code": "CYM",
+        "year": 2019,
+        "energy_gj": 185.1654094,
+        "life_expectancy": null,
+        "population": 67000,
+        "continent": "North America"
+    },
+    {
+        "country": "Costa Rica",
+        "code": "CRI",
+        "year": 2019,
+        "energy_gj": 47.37092344,
+        "life_expectancy": 80.279,
+        "population": 5085000,
+        "continent": "North America"
+    },
+    {
+        "country": "Cuba",
+        "code": "CUB",
+        "year": 2019,
+        "energy_gj": 34.59003047,
+        "life_expectancy": 78.802,
+        "population": 11317000,
+        "continent": "North America"
+    },
+    {
+        "country": "Dominica",
+        "code": "DMA",
+        "year": 2019,
+        "energy_gj": 39.57868477,
+        "life_expectancy": null,
+        "population": 72000,
+        "continent": "North America"
+    },
+    {
+        "country": "Dominican Republic",
+        "code": "DOM",
+        "year": 2019,
+        "energy_gj": 41.16468516,
+        "life_expectancy": 74.081,
+        "population": 10882000,
+        "continent": "North America"
+    },
+    {
+        "country": "Grenada",
+        "code": "GRD",
+        "year": 2019,
+        "energy_gj": 41.97828164,
+        "life_expectancy": 72.397,
+        "population": 123000,
+        "continent": "North America"
+    },
+    {
+        "country": "Haiti",
+        "code": "HTI",
+        "year": 2019,
+        "energy_gj": 4.188911133,
+        "life_expectancy": 64.001,
+        "population": 11161000,
+        "continent": "North America"
+    },
+    {
+        "country": "Jamaica",
+        "code": "JAM",
+        "year": 2019,
+        "energy_gj": 52.42594922,
+        "life_expectancy": 74.475,
+        "population": 2814000,
+        "continent": "North America"
+    },
+    {
+        "country": "Mexico",
+        "code": "MEX",
+        "year": 2019,
+        "energy_gj": 59.42581172,
+        "life_expectancy": 75.054,
+        "population": 125086000,
+        "continent": "North America"
+    },
+    {
+        "country": "Panama",
+        "code": "PAN",
+        "year": 2019,
+        "energy_gj": 104.3940164,
+        "life_expectancy": 78.506,
+        "population": 4233000,
+        "continent": "North America"
+    },
+    {
+        "country": "Puerto Rico",
+        "code": "PRI",
+        "year": 2019,
+        "energy_gj": 100.5384164,
+        "life_expectancy": 79.9285122,
+        "population": 3293000,
+        "continent": "North America"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "code": "KNA",
+        "year": 2019,
+        "energy_gj": 75.86474766,
+        "life_expectancy": null,
+        "population": 48000,
+        "continent": "North America"
+    },
+    {
+        "country": "Saint Lucia",
+        "code": "LCA",
+        "year": 2019,
+        "energy_gj": 53.6730082,
+        "life_expectancy": 76.203,
+        "population": 179000,
+        "continent": "North America"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "code": "VCT",
+        "year": 2019,
+        "energy_gj": 29.35309922,
+        "life_expectancy": 72.534,
+        "population": 105000,
+        "continent": "North America"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "code": "TTO",
+        "year": 2019,
+        "energy_gj": 498.2570437,
+        "life_expectancy": 73.507,
+        "population": 1520000,
+        "continent": "North America"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "code": "TCA",
+        "year": 2019,
+        "energy_gj": 92.78858672,
+        "life_expectancy": null,
+        "population": 44000,
+        "continent": "North America"
+    },
+    {
+        "country": "United States",
+        "code": "USA",
+        "year": 2019,
+        "energy_gj": 290.6964,
+        "life_expectancy": 78.78780488,
+        "population": 334320000,
+        "continent": "North America"
+    },
+    {
+        "country": "United States Virgin Islands",
+        "code": "VIR",
+        "year": 2019,
+        "energy_gj": 342.0359156,
+        "life_expectancy": 79.66829268,
+        "population": 101000,
+        "continent": "North America"
+    },
+    {
+        "country": "American Samoa",
+        "code": "ASM",
+        "year": 2019,
+        "energy_gj": 93.68521172,
+        "life_expectancy": null,
+        "population": 48000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Australia",
+        "code": "AUS",
+        "year": 2019,
+        "energy_gj": 239.8135781,
+        "life_expectancy": 82.9,
+        "population": 25358000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Fiji",
+        "code": "FJI",
+        "year": 2019,
+        "energy_gj": 34.71273633,
+        "life_expectancy": 67.444,
+        "population": 919000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "French Polynesia",
+        "code": "PYF",
+        "year": 2019,
+        "energy_gj": 60.81968672,
+        "life_expectancy": 77.657,
+        "population": 300000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Guam",
+        "code": "GUM",
+        "year": 2019,
+        "energy_gj": 161.1766547,
+        "life_expectancy": 80.074,
+        "population": 169000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Kiribati",
+        "code": "KIR",
+        "year": 2019,
+        "energy_gj": 9.859947363,
+        "life_expectancy": 68.369,
+        "population": 125000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Micronesia (country)",
+        "code": "FSM",
+        "year": 2019,
+        "energy_gj": 22.80279902,
+        "life_expectancy": 67.883,
+        "population": 112000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Nauru",
+        "code": "NRU",
+        "year": 2019,
+        "energy_gj": 89.34498984,
+        "life_expectancy": null,
+        "population": 13000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "New Caledonia",
+        "code": "NCL",
+        "year": 2019,
+        "energy_gj": 282.9801094,
+        "life_expectancy": 77.63414634,
+        "population": 286000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "New Zealand",
+        "code": "NZL",
+        "year": 2019,
+        "energy_gj": 198.5823281,
+        "life_expectancy": 81.70731707,
+        "population": 4960000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "code": "MNP",
+        "year": 2019,
+        "energy_gj": 0.0,
+        "life_expectancy": null,
+        "population": 50000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Papua New Guinea",
+        "code": "PNG",
+        "year": 2019,
+        "energy_gj": 11.93886475,
+        "life_expectancy": 64.501,
+        "population": 9543000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Samoa",
+        "code": "WSM",
+        "year": 2019,
+        "energy_gj": 28.65245273,
+        "life_expectancy": 73.321,
+        "population": 212000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Solomon Islands",
+        "code": "SLB",
+        "year": 2019,
+        "energy_gj": 7.337525537,
+        "life_expectancy": 72.996,
+        "population": 675000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Tonga",
+        "code": "TON",
+        "year": 2019,
+        "energy_gj": 24.09895195,
+        "life_expectancy": 70.907,
+        "population": 105000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Tuvalu",
+        "code": "TUV",
+        "year": 2019,
+        "energy_gj": 0.0,
+        "life_expectancy": null,
+        "population": 11000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Vanuatu",
+        "code": "VUT",
+        "year": 2019,
+        "energy_gj": 11.47658291,
+        "life_expectancy": 70.474,
+        "population": 305000,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Argentina",
+        "code": "ARG",
+        "year": 2019,
+        "energy_gj": 74.82929062,
+        "life_expectancy": 76.667,
+        "population": 44746000,
+        "continent": "South America"
+    },
+    {
+        "country": "Bolivia",
+        "code": "BOL",
+        "year": 2019,
+        "energy_gj": 28.58537988,
+        "life_expectancy": 71.513,
+        "population": 11778000,
+        "continent": "South America"
+    },
+    {
+        "country": "Brazil",
+        "code": "BRA",
+        "year": 2019,
+        "energy_gj": 59.49039375,
+        "life_expectancy": 75.881,
+        "population": 211783000,
+        "continent": "South America"
+    },
+    {
+        "country": "Chile",
+        "code": "CHL",
+        "year": 2019,
+        "energy_gj": 91.54881563,
+        "life_expectancy": 80.181,
+        "population": 19040000,
+        "continent": "South America"
+    },
+    {
+        "country": "Colombia",
+        "code": "COL",
+        "year": 2019,
+        "energy_gj": 38.33054648,
+        "life_expectancy": 77.287,
+        "population": 50188000,
+        "continent": "South America"
+    },
+    {
+        "country": "Ecuador",
+        "code": "ECU",
+        "year": 2019,
+        "energy_gj": 43.78494023,
+        "life_expectancy": 77.01,
+        "population": 17344000,
+        "continent": "South America"
+    },
+    {
+        "country": "El Salvador",
+        "code": "SLV",
+        "year": 2019,
+        "energy_gj": 25.45187695,
+        "life_expectancy": 73.317,
+        "population": 6281000,
+        "continent": "South America"
+    },
+    {
+        "country": "Guatemala",
+        "code": "GTM",
+        "year": 2019,
+        "energy_gj": 20.47959668,
+        "life_expectancy": 74.302,
+        "population": 17107000,
+        "continent": "South America"
+    },
+    {
+        "country": "Guinea",
+        "code": "GIN",
+        "year": 2019,
+        "energy_gj": 4.362342188,
+        "life_expectancy": 61.602,
+        "population": 12878000,
+        "continent": "South America"
+    },
+    {
+        "country": "Guyana",
+        "code": "GUY",
+        "year": 2019,
+        "energy_gj": 51.28487227,
+        "life_expectancy": 69.906,
+        "population": 799000,
+        "continent": "South America"
+    },
+    {
+        "country": "Honduras",
+        "code": "HND",
+        "year": 2019,
+        "energy_gj": 20.89038691,
+        "life_expectancy": 75.27,
+        "population": 9959000,
+        "continent": "South America"
+    },
+    {
+        "country": "Nicaragua",
+        "code": "NIC",
+        "year": 2019,
+        "energy_gj": 15.7376127,
+        "life_expectancy": 74.485,
+        "population": 6664000,
+        "continent": "South America"
+    },
+    {
+        "country": "Paraguay",
+        "code": "PRY",
+        "year": 2019,
+        "energy_gj": 66.23107734,
+        "life_expectancy": 74.254,
+        "population": 6531000,
+        "continent": "South America"
+    },
+    {
+        "country": "Peru",
+        "code": "PER",
+        "year": 2019,
+        "energy_gj": 37.82824453,
+        "life_expectancy": 76.736,
+        "population": 32825000,
+        "continent": "South America"
+    },
+    {
+        "country": "Suriname",
+        "code": "SUR",
+        "year": 2019,
+        "energy_gj": 86.89052109,
+        "life_expectancy": 71.682,
+        "population": 601000,
+        "continent": "South America"
+    },
+    {
+        "country": "Uruguay",
+        "code": "URY",
+        "year": 2019,
+        "energy_gj": 70.58585391,
+        "life_expectancy": 77.911,
+        "population": 3429000,
+        "continent": "South America"
+    },
+    {
+        "country": "Venezuela",
+        "code": "VEN",
+        "year": 2019,
+        "energy_gj": 73.27218516,
+        "life_expectancy": 72.064,
+        "population": 28972000,
+        "continent": "South America"
+    }
+]

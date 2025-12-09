@@ -3,7 +3,7 @@
 </script>
 
 <section
-	class="min-h-220 flex items-center px-20 pt-32 pb-20 bg-[#131418]"
+	class="min-h-200 flex items-center px-20 pt-32 pb-20 bg-[#131418] overflow-hidden"
 >
 	<div class="w-full grid grid-cols-2 gap-16 items-center">
 		<!-- Globe -->
@@ -14,22 +14,23 @@
 		<!-- Text Stuff -->
 		<div class="space-y-6 text-left">
 			<h1 class="text-5xl font-bold leading-tight">
-				Illuminating Global <br />
-				<span class="text-blue-400">Energy Inequality</span>
+				<span class="text-white">Global</span>
+				<span
+					class="bg-linear-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent"
+					>Energy Inequality</span
+				> <br />
+				<span class="text-white">and</span>
+				<span
+					class="bg-linear-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
+					>Energy Poverty</span
+				>
 			</h1>
 
 			<p class="text-gray-300 text-xl max-w-lg mx-0">
-				Across the world, electricity access determines who can study, who can
-				work, who can heal — and who falls behind. This interactive experience
-				visualizes energy inequality, its impacts, and the pathways forward.
+				Over <span class="text-cyan-400 font-bold">1.1 billion</span> people live
+				in energy poverty without reliable, affordable, modern energy services. Access
+				to electricity shapes health, education, safety, and opportunity.
 			</p>
-
-			<a
-				href="#what-is-energy"
-				class="inline-block bg-blue-500 hover:bg-blue-600 text-white font-semibold px-6 py-3 rounded-xl shadow-lg transition"
-			>
-				Learn More
-			</a>
 		</div>
 	</div>
 </section>

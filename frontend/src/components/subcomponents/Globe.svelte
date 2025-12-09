@@ -1,6 +1,16 @@
 <script>
 	let videoSrc = "/2-135653517.mp4";
 	let videoSrc2 = "BlackMarble_2016_rotate_1080p.mov";
+
+	let videoElement;
+
+	function pauseVideo() {
+		if (videoElement) videoElement.pause();
+	}
+
+	function playVideo() {
+		if (videoElement) videoElement.play();
+	}
 </script>
 
 <div class="relative flex justify-center items-center">
@@ -20,13 +30,18 @@
 
 	<!-- Globe Video -->
 	<div
-		class="relative w-[500px] h-[500px] rounded-full overflow-hidden"
+		class="relative w-[500px] h-[500px] rounded-full overflow-hidden cursor-pointer"
+		role="img"
+		aria-label="Rotating globe video"
 		style="
-      mask-image: radial-gradient(circle, white 72%, transparent 100%);
-      -webkit-mask-image: radial-gradient(circle, white 72%, transparent 100%);
-    "
+			mask-image: radial-gradient(circle, white 65%, transparent 100%);
+			-webkit-mask-image: radial-gradient(circle, white 65%, transparent 100%);
+		"
+		on:mouseenter={pauseVideo}
+		on:mouseleave={playVideo}
 	>
 		<video
+			bind:this={videoElement}
 			src={videoSrc}
 			class="w-full h-full object-cover scale-[1.18] brightness-180 contrast-125"
 			autoplay
