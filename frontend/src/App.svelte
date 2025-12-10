@@ -4,6 +4,7 @@
 	import WhatIsIt from "./components/WhatIsIt.svelte";
 	import WhyItMatters from "./components/WhyItMatters.svelte";
 	import DataSection from "./components/DataSection.svelte";
+	import CurrentEfforts from "./components/CurrentEfforts.svelte";
 </script>
 
 <!-- Sticky Header -->
@@ -28,5 +29,10 @@
 	<!-- Data Section -->
 	<section id="data">
 		<DataSection />
+	</section>
+
+	<!-- Current Efforts Section -->
+	<section id="efforts">
+		<CurrentEfforts />
 	</section>
 </main>

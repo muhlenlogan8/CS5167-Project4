@@ -1,9 +1,10 @@
 <script>
 	const tabs = [
 		{ label: "Home", href: "#" },
-		{ label: "What They Are", href: "#what-is" },
+		{ label: "The Issue", href: "#what-is" },
 		{ label: "Why It Matters", href: "#why-it-matters" },
 		{ label: "The Data", href: "#data" },
+		{ label: "Current Efforts", href: "#efforts" },
 	];
 
 	function handleNavClick(event, href) {

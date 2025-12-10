@@ -6,11 +6,11 @@
 	const offInfo = [
 		{
 			title: "No Reliable Electricity",
-			text: "685 million people live without any electricity access (2022), reversing years of progress.",
+			text: "685 million people live without any electricity access.",
 		},
 		{
 			title: "Unsafe Indoor Air",
-			text: "3.2 million people die annually from indoor air pollution caused by cooking with wood, charcoal, or dung.",
+			text: "Over 3 million people die annually from indoor air pollution from traditional fuels used when modern energy isn't available.",
 		},
 		{
 			title: "Limited Education",
@@ -29,7 +29,7 @@
 		},
 		{
 			title: "Health + Safety",
-			text: "Reliable energy enables vaccine refrigeration, safe childbirth, and reduces indoor air pollution.",
+			text: "Reliable energy enables vaccine refrigeration, and reduces indoor air pollution.",
 		},
 		{
 			title: "Economic Opportunity",
@@ -47,14 +47,14 @@
 </script>
 
 <section
-	class="py-20 px-20 transition-colors duration-700"
+	class="pt-10 pb-10 transition-colors duration-700"
 	class:bg-[#1d1f25]={!isOn}
 	class:bg-[#e7e7e7]={isOn}
 >
-	<div class="max-w-7xl mx-auto">
-		<div class="grid grid-cols-2 gap-16 items-center">
+	<div class="max-w-5xl mx-auto flex">
+		<div class="items-center">
 			<!-- Left Switch -->
-			<div class="space-y-12">
+			<div class="space-y-6">
 				<h2
 					class="text-4xl font-bold text-center"
 					class:text-white={!isOn}
@@ -82,7 +82,7 @@
 			</div>
 
 			<!-- Right Facts -->
-			<div class="grid grid-cols-1 gap-6">
+			<div class="grid grid-cols-2 gap-6 pt-10">
 				{#each isOn ? onInfo : offInfo as fact}
 					<div
 						in:fade={{ duration: 300 }}

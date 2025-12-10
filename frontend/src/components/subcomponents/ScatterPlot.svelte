@@ -78,7 +78,7 @@
 	});
 </script>
 
-<div class="flex flex-wrap gap-6 justify-center mt-6">
+<div class="flex flex-wrap gap-6 justify-center">
 	{#each Object.keys(colors) as cont}
 		<div class="flex items-center space-x-2">
 			<div
@@ -91,7 +91,7 @@
 </div>
 
 <div
-	class="bg-white/5 border border-white/10 p-10 rounded-xl shadow-xl justify-center max-w-7xl mx-auto"
+	class="bg-white/5 border border-white/10 px-8 pt-8 pb-4 rounded-xl shadow-xl justify-center max-w-4xl mx-auto"
 >
-	<canvas bind:this={canvasRef} class="w-full h-[450px]"></canvas>
+	<canvas bind:this={canvasRef} class="w-full h-[400px]"></canvas>
 </div>

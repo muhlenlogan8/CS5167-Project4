@@ -3,7 +3,7 @@
 </script>
 
 <section
-	class="min-h-200 flex items-center px-20 pt-32 pb-20 bg-[#131418] overflow-hidden"
+	class="flex items-center p-25 bg-[#131418] overflow-hidden"
 >
 	<div class="w-full grid grid-cols-2 gap-16 items-center">
 		<!-- Globe -->
@@ -28,7 +28,7 @@
 
 			<p class="text-gray-300 text-xl max-w-lg mx-0">
 				Over <span class="text-cyan-400 font-bold">1.1 billion</span> people live
-				in energy poverty without reliable, affordable, modern energy services. Access
+				in energy poverty without reliable, affordable, and modern energy services. Access
 				to electricity shapes health, education, safety, and opportunity.
 			</p>
 		</div>
