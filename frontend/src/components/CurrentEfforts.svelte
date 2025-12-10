@@ -44,7 +44,7 @@
 				"More than 1,700 vaccine refrigerators and 10 cold rooms have been
 				installed in Yemen - all powered by solar energy." <a
 					href="https://www.unicef.org/supply/stories/powering-childrens-futures"
-					class="underline text-purple-400 hover:purple-cyan-300">[Unicef]</a
+					class="underline text-purple-400 hover:text-purple-300">[Unicef]</a
 				>
 			</p>
 		</div>
